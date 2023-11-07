@@ -1,10 +1,5 @@
-<!DOCTYPE html>
-<html>
-<body>
-​
-<video width="320" height="240" controls>
-  <source src="RPReplay_Final1699042684.mov" type="video/.mov">
+<video width="400" controls>
+  <source src="mov_bbb.mp4" type="video/mp4">
+  <source src="mov_bbb.ogg" type="video/ogg">
+  Your browser does not support HTML video.
 </video>
-​
-</body>
-</html>
